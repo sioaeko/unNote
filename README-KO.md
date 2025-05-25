@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-🌍 **다른 언어로 읽기**: [English](README-EN.md) | [中文](README-CN.md) | [日本語](README-JP.md)
+🌍 **다른 언어로 읽기**: [English](README.md) | [中文](README-CN.md) | [日本語](README-JP.md)
 
 ## ✨ 주요 기능
 
