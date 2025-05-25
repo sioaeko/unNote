@@ -36,7 +36,7 @@
 ## 🚀 unNote 체험하기
 
 ### 온라인 데모
-**[🌟 unNote 바로 체험하기](https://lovable.dev/projects/f54500f3-db78-42bd-9c43-51e1fce1e1c7)**
+**[🌟 unNote 바로 체험하기](https://unnote.works)**
 
 ### 주요 하이라이트
 - **🚫 설치 불필요** - 브라우저에서 바로 작동
