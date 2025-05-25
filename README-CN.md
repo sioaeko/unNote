@@ -1,6 +1,8 @@
 
 # 📝 unNote
 
+![rounded-in-photoretrica](https://github.com/user-attachments/assets/718e66df-1e1d-4b9d-93f6-9509ddfa3d97)
+
 > **AI驱动的Markdown笔记Web应用**  
 > 干净、简约、智能的笔记体验，内置AI助手功能。
 
