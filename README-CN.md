@@ -110,6 +110,6 @@
 ---
 
 <div align="center">
-  <strong>🔗 立即体验: <a href="https://lovable.dev/projects/f54500f3-db78-42bd-9c43-51e1fce1e1c7">打开unNote应用</a></strong><br><br>
-  <em>✨ 体验使用Lovable构建的AI笔记应用的未来 ✨</em>
+  <strong>🔗 立即体验: <a href="https://unnote.works">打开unNote应用</a></strong><br><br>
+  <em>✨ 构建的AI笔记应用的未来 ✨</em>
 </div>
