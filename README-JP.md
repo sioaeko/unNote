@@ -1,6 +1,8 @@
 
 # 📝 unNote
 
+![rounded-in-photoretrica](https://github.com/user-attachments/assets/718e66df-1e1d-4b9d-93f6-9509ddfa3d97)
+
 > **AI搭載マークダウンノートWebアプリ**  
 > 内蔵AIアシスタントによるクリーンでミニマル、そしてインテリジェントなノート作成体験。
 
