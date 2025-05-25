@@ -1,6 +1,8 @@
 
 # 📝 unNote
 
+![rounded-in-photoretrica](https://github.com/user-attachments/assets/718e66df-1e1d-4b9d-93f6-9509ddfa3d97)
+
 > **AI 기반 마크다운 노트 앱**  
 > 깔끔하고 미니멀하며 지능적인 노트 작성 경험을 AI 어시스턴트와 함께.
 
