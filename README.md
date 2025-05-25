@@ -1,14 +1,16 @@
 
 # 📝 unNote
 
-> **AI-Powered Markdown Note-Taking Application**  
+> **AI-Powered Markdown Note-Taking Web Application**  
 > Clean, minimal, and intelligent note-taking experience with built-in AI assistance.
 
 ![unNote](https://img.shields.io/badge/Built%20with-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## ✨ Features
+🌍 **Read in other languages**: [한국어](README.md) | [中文](README-CN.md) | [日本語](README-JP.md)
+
+## ✨ Key Features
 
 ### 🎯 Core Features
 - **📱 Responsive Design** - Perfect experience across desktop and mobile devices
@@ -31,33 +33,58 @@
 - **Math Expressions** - Support for mathematical notation
 - **Export Options** - Export your notes in various formats
 
-## 🚀 Quick Start
+## 🚀 Try unNote
 
-### Online Access
-Visit [unNote](https://lovable.dev/projects/f54500f3-db78-42bd-9c43-51e1fce1e1c7) to start using the application immediately.
+### **[🌟 Start Using unNote Now](https://unnote.works)**
 
-### Local Development
+### Key Highlights
+- **🚫 No Installation Required** - Works directly in your browser
+- **⚡ Instant AI Integration** - Just add your API key and start writing
+- **📱 Cross-Platform** - Works on any device with a web browser
+- **🔒 Privacy Focused** - Your notes and API keys stay in your browser
 
-1. **Clone the repository**
-   ```bash
-   git clone <YOUR_GIT_URL>
-   cd unnote
-   ```
+## 🤖 Supported AI Models
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+### OpenAI
+- **GPT-4o** - Flagship multimodal model
+- **GPT-4.1** - Specialized for coding and precise instruction following
+- **GPT-4.5** - Latest large model (Research Preview)
+- **o1, o1-mini, o3-mini** - Complex reasoning specialized models
 
-3. **Start development server**
-   ```bash
-   npm run dev
-   ```
+### Claude (Anthropic)
+- **Claude 4 Series** - Latest high-performance models
+- **Claude 3.5 Sonnet** - Balanced performance and speed
+- **Claude 3.5 Haiku** - Lightweight, fast responses
 
-4. **Open in browser**
-   ```
-   http://localhost:5173
-   ```
+### Perplexity
+- **Sonar Reasoning Pro** - Premium reasoning and search
+- **Sonar Deep Research** - Dedicated to deep research
+- **R1-1776** - High-performance model based on DeepSeek R1
+
+## 💡 Use Cases
+
+### 📝 Content Creation
+- Blog post writing
+- Technical documentation
+- Marketing copy creation
+
+### 🔬 Research & Learning
+- Academic paper organization
+- Meeting notes
+- Idea brainstorming
+
+### ✍️ Creative Writing
+- Novel and essay writing
+- Screenplay and script writing
+- Creative writing projects
+
+## 🚀 Getting Started
+
+1. **🌐 Visit the App** - Go to [unNote](https://unnote.works)
+2. **⚙️ Configure AI** - Set up your preferred AI provider and API key in settings
+3. **📝 Start Writing** - Create your first note and experience AI-powered writing
+4. **📁 Organize** - Use folders to systematically manage your notes
+5. **🔗 Share** - Generate shareable links for collaboration
 
 ## 🛠️ Technology Stack
 
@@ -65,68 +92,22 @@ Visit [unNote](https://lovable.dev/projects/f54500f3-db78-42bd-9c43-51e1fce1e1c7
 |----------|------------|
 | **Frontend** | React 18, TypeScript |
 | **Styling** | Tailwind CSS, shadcn/ui |
-| **Build Tool** | Vite |
-| **State Management** | React Context API |
-| **Data Fetching** | TanStack Query |
-| **Routing** | React Router |
-| **AI Integration** | OpenAI, Claude, Perplexity APIs |
-| **Markdown** | react-markdown, remark-gfm |
+| **Build** | Vite |
+| **State** | React Context API |
+| **Data** | TanStack Query |
+| **AI** | OpenAI, Claude, Perplexity APIs |
 
-## 🎨 Key Components
+## 🌟 Why Choose unNote?
 
-- **📝 Markdown Editor** - Feature-rich editor with live preview
-- **🗂️ Sidebar Navigation** - Intuitive folder and note management
-- **🤖 AI Text Generator** - Intelligent writing assistance
-- **⚙️ Settings Panel** - Customizable AI models and API keys
-- **📱 Mobile Optimized** - Touch-friendly interface for mobile devices
-
-## 🔧 Configuration
-
-### AI Provider Setup
-1. Navigate to Settings (⚙️ icon)
-2. Select your preferred AI provider
-3. Enter your API key
-4. Choose your model
-5. Start generating AI-powered content!
-
-### Keyboard Shortcuts
-- `Ctrl + \` - Toggle sidebar
-- `Ctrl + N` - Create new note
-- `Ctrl + S` - Save current note
-
-## 🌟 Screenshots
-
-### Desktop Experience
-- Clean, distraction-free writing environment
-- Powerful sidebar with folder organization
-- Real-time markdown preview
-
-### Mobile Experience
-- Touch-optimized interface
-- Collapsible sidebar for maximum writing space
-- All features accessible on mobile
-
-## 🤝 Contributing
-
-We welcome contributions! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Improve documentation
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🔗 Links
-
-- **Live Demo**: [unNote App](https://lovable.dev/projects/f54500f3-db78-42bd-9c43-51e1fce1e1c7)
-- **Documentation**: [Lovable Docs](https://docs.lovable.dev/)
-- **Community**: [Discord](https://discord.com/channels/1119885301872070706/1280461670979993613)
+- **🚀 Instant Access** - Start immediately without installation or signup
+- **🤖 AI-First Design** - Built from the ground up with AI assistance in mind
+- **🔐 Complete Privacy** - All data stored locally
+- **💎 Modern UX** - Clean, intuitive interface
+- **🌍 Access Anywhere** - Available wherever you have a browser
 
 ---
 
 <div align="center">
-  <strong>Built with ❤️ using Lovable</strong><br>
-  <em>The AI-powered way to build web applications</em>
+  <strong>🔗 Try Now: <a href="https://unnote.works">Open unNote App</a></strong><br><br>
+  <em>✨ Experience the future of AI-powered note-taking built with Lovable ✨</em>
 </div>
