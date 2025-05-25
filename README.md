@@ -109,5 +109,5 @@
 
 <div align="center">
   <strong>🔗 Try Now: <a href="https://unnote.works">Open unNote App</a></strong><br><br>
-  <em>✨ Experience the future of AI-powered note-taking built with Lovable ✨</em>
+  <em>✨ Experience the future of AI-powered note-taking ✨</em>
 </div>
