@@ -1,6 +1,8 @@
 
 # 📝 unNote
 
+![rounded-in-photoretrica](https://github.com/user-attachments/assets/718e66df-1e1d-4b9d-93f6-9509ddfa3d97)
+
 > **AI-Powered Markdown Note-Taking Web Application**  
 > Clean, minimal, and intelligent note-taking experience with built-in AI assistance.
 
