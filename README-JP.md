@@ -111,5 +111,5 @@
 
 <div align="center">
   <strong>🔗 今すぐ体験: <a href="https://unnote.works">unNoteアプリを開く</a></strong><br><br>
-  <em>✨ Lovableで構築されたAIノートアプリの未来を体験してください ✨</em>
+  <em>✨ 築されたAIノートアプリの未来を体験してください ✨</em>
 </div>
