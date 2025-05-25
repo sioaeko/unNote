@@ -35,7 +35,7 @@
 
 ## 🚀 体验unNote
 
-### **[🌟 立即开始使用unNote](https://lovable.dev/projects/f54500f3-db78-42bd-9c43-51e1fce1e1c7)**
+### **[🌟 立即开始使用unNote](https://unnote.works)**
 
 ### 主要亮点
 - **🚫 无需安装** - 直接在浏览器中运行
@@ -80,7 +80,7 @@
 
 ## 🚀 快速开始
 
-1. **🌐 访问应用** - 前往[unNote](https://lovable.dev/projects/f54500f3-db78-42bd-9c43-51e1fce1e1c7)
+1. **🌐 访问应用** - 前往[unNote](https://unnote.works)
 2. **⚙️ 配置AI** - 在设置中配置您偏好的AI服务商和API密钥
 3. **📝 开始写作** - 创建您的第一个笔记，体验AI驱动的写作
 4. **📁 整理笔记** - 使用文件夹系统化管理您的笔记
